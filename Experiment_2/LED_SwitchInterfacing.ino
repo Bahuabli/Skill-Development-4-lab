@@ -1,5 +1,6 @@
 
-/***************************
+/**************************************************************
+***  AIM : Read status of switch and display it on LED 
 ***  port maping 
 *** switch -> PORTB^0 (pin 8)
 *** LED    -> PORTB^1 (pin 9)
