@@ -13,6 +13,7 @@ int val[] = {	0xEE,	//0
 				0xFE,	//8
  				0xF6};	//9
 
+
 void setup()
 {
  DDRD = 0xFE;  //config 7seg pins as output pins
