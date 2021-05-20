@@ -17,4 +17,5 @@ void loop()
   Serial.print(temp); //display temp
   Serial.println("*C");
   delay(100);
+  
 }
