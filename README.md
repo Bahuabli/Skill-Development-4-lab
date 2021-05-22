@@ -17,4 +17,5 @@ List of experiments
     8. Interfacing of 16X2 LCD display with AVR uC (ATmega328)
     
     9. Interfacing of TMP36 temperature sensor with AVR uC (ATmega328)[link to Google!](http://google.com)
+    [Upgrade to v2.0](https://github.com/crankyoldgit/IRremoteESP8266/wiki/Upgrading-to-v2.0)
    
