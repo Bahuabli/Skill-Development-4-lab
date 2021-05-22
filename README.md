@@ -1,7 +1,7 @@
 # Skill-Development-4-lab
 List of experiments
 
-    1. Interfacing of LED with AVR uC (ATmega328) [**Link**]( https://www.tinkercad.com/things/jtl1X2aekNT)    
+    1. Interfacing of LED with AVR uC (ATmega328) [Link](https://www.tinkercad.com/things/jtl1X2aekNT)    
     2. Interfacing of LED and switch with AVR uC (ATmega328)
     
     3. Interfacing of ADC with AVR uC (ATmega328)
@@ -16,5 +16,5 @@ List of experiments
     
     8. Interfacing of 16X2 LCD display with AVR uC (ATmega328)
     
-    9. Interfacing of TMP36 temperature sensor with AVR uC (ATmega328)
+    9. Interfacing of TMP36 temperature sensor with AVR uC (ATmega328)[link to Google!](http://google.com)
    
