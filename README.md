@@ -1,11 +1,8 @@
 # Skill-Development-4-lab
 ## List of experiments
 
-[**Visit the website.**](http://markdown-here.com)<br>
-
-    1. Interfacing of LED with AVR uC (ATmega328) [link](https://www.tinkercad.com/things/jtl1X2aekNT)
-    
-    2. Interfacing of LED and switch with AVR uC (ATmega328)
+[**1. Interfacing of LED with AVR uC (ATmega328)**](https://www.tinkercad.com/things/jtl1X2aekNT)<br>
+[**2. Interfacing of LED and switch with AVR uC (ATmega328)**]()<br>
       
     3. Interfacing of ADC with AVR uC (ATmega328)
     
